@@ -4,10 +4,6 @@ new changes for revert
 frontend data
 frontend data 2
 
-git sample 1
-new front sample
 
-last trial
-new commit
-new backendline
-some random texts
+Changes for git clone --single-branch --branch frontend https://github.com/Vijay-kumar-N/ravindra.git
+
